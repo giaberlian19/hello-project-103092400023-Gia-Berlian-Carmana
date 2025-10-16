@@ -1,8 +1,8 @@
 package main
-
+//ini hasil clone //
 import "fmt"
 
-const nmax = 100
+const nmax = 100 
 
 type lagu struct {
 	judul  string
@@ -318,3 +318,4 @@ func SelectionSortBygenre(musik *tabint, jumlah *int) {
 		musik[min] = temp
 	}
 }
+
